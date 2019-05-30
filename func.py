@@ -77,9 +77,7 @@ def first(iterable: Iterable):
     for element in iterable:
         if element:
             return element
-        else:
-            return None
-        
+                
         
  # 7. Написать функцию получения последнего элемента или None
 
